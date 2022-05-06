@@ -1,0 +1,9 @@
+a=56
+b=10
+print(a&b)
+print(a|b)
+print(a^b)
+k=a<<2,b<<2
+print(k)
+z=a>>2,b>>4
+print(z)
